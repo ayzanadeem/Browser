@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="search">Search</string>
+    <string name="back"><![CDATA[<--]]></string>
+    <string name="forward"><![CDATA[-->]]></string>
+    <string name="reload">Reload</string>
+</resources>

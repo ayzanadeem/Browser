@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/back_btn"
+        android:title="back"
+        android:icon="@drawable/back"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/forward_btn"
+        android:title="forward"
+        android:icon="@drawable/forward"
+        app:showAsAction="always"
+
+        />
+
+    <item
+        android:id="@+id/reload_btn"
+        android:title="@string/reload"
+        android:icon="@drawable/reload"
+        app:showAsAction="always"
+        />
+</menu>
